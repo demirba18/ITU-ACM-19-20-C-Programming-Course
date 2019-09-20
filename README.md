@@ -29,16 +29,14 @@ The goal of that course is give some basic informations about C Programming that
 
 |  #Date |  #Topic  | #Description  |
 | :------------: | :------------: | :------------: |
-  | 1.Hafta | Programlama mantığının anlatılması gerekli ortamların kurulması ve ilk  programın yazılması  | PyCharm kurulumu, “Hello World” yazma |
-| 2.Hafta | Temel veri yapıları ve temel matematik operatörlerinin anlatılması, liste, set, tuple, string veri tipleri. |  Integer,char vb. +,-,% ….  |
-| 3.Hafta | Temel liste ve set fonksiyonları | Append, delete, pop ....   |
-| 4.Hafta |  Koşullu durumlar ve döngülerin anlatılması  | If, elif, else, switch case, for, while..   |
-| 5.Hafta | Temel dosya işlemleri.  | Open, write, close... |
-| 6.Hafta | Fonksiyonlar ve modüllerin anlatılması. |  Fonksiyon nasıl yazılır ve math modülleri. |
-| 7.Hafta | Error tipleri. | Error,bug,exceptions. |
-| 8.Hafta | Tüm anlatılanlar kullanılarak ufak çaplı proje yapma. |  Oyun, hesap makinesi, taş kağıt makas veya hackerrank'ten alınacak bir problem |
-
-
+| 1.Hafta | Programlama mantığının anlatılması gerekli ortamların kurulması ve ilk  programın yazılması  | IDE kurulumu, “Hello World” yazma |
+| 2.Hafta | Temel veri yapıları ve temel matematik operatörlerinin anlatılması liste, set, string veri tipleri. |  Integer,char vb. +,-,% ….  |
+| 3.Hafta |  Koşullu durumlar ve döngülerin anlatılması  | If, else if, else, switch case, for, while..   |
+| 4.Hafta | Temel liste ve set fonksiyonları ||
+| 5.Hafta | Fonksiyonlar ve modüllerin anlatılması. |  Fonksiyon nasıl yazılır ve math modülleri. |
+| 6.Hafta | Pointer aritmetiğinin anlatılması | |
+| 7.Hafta |  Dynamic Memory Allocation ve Struct yapısına giriş |
+| 8.Hafta |Temel dosya işlemleri.  | Open, write, close... |
 
 
 
