@@ -18,7 +18,7 @@ Computer Engineering #2 @I.T.U
 
 ### Prerequisities
 1. Curiosity about programming.
-2. Being exciting to learn Python.
+2. Being exciting to learn C.
 
 
 ### Goal
