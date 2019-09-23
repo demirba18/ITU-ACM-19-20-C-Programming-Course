@@ -32,7 +32,7 @@ The goal of that course is give some basic informations about C Programming that
 | 1.Hafta | Programlama mantığının anlatılması gerekli ortamların kurulması ve ilk  programın yazılması  | IDE kurulumu, “Hello World” yazma |
 | 2.Hafta | Temel değişken türleri ve temel matematik operatörlerinin anlatılması dizi veri tipleri. |  Integer,char vb. +,-,% ….  |
 | 3.Hafta | Koşullu durumlar ve döngülerin anlatılması  | If, else if, else, switch case, for, while..   |
-| 4.Hafta | Fonksiyonlar ve modüllerin anlatılması. |  Fonksiyon nasıl yazılır ve math modülleri. |
+| 4.Hafta | Fonksiyonlar anlatılması. |  Fonksiyon nasıl yazılır ve math fonksiyonları. |
 | 5.Hafta | Temel liste fonksiyonları |
 | 6.Hafta | Pointer aritmetiğinin anlatılması | String... |
 | 7.Hafta | Dynamic Memory Allocation ve Struct yapısına giriş |
