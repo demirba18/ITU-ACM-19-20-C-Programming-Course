@@ -1,5 +1,5 @@
 # ITU-ACM-19-20-C-Programming-Course
-[![](https://ituacm.com/wp-content/uploads/2017/12/fb-tes-720p-1024x576.png)](https://ituacm.com/wp-content/uploads/2017/12/fb-tes-720p-1024x576.png)
+[![](https://ituacm.com/wp-content/uploads/2019/09/C-Programming-Course-19-20.jpg)](https://ituacm.com/wp-content/uploads/2019/09/C-Programming-Course-19-20.jpg)
 
 ### Instructors
 
